@@ -20,7 +20,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![screenshot](QR-code-component-challenge/screenshot.jpg)
+![screenshot](QR-code-component/screenshot.jpg)
 
 
 ## My process
